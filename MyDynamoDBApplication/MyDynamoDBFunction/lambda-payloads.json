@@ -1,0 +1,9 @@
+{
+    "MyDynamoDBFunction": {
+        "lambda": {
+            "ID": "1",
+            "table": "sampledb",
+            "message": "Hello World!!"
+        }
+    }
+}
